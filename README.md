@@ -1,19 +1,22 @@
-## Hi there 👋
-Welcome to Github profile
+## 👋 Hey there, I'm Arden Bouet!
 
-🌱 What I'm Learning ...
-- 
-<!--
-**Arden28/Arden28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **software designer, founder, and tech enthusiast** passionate about building scalable and efficient software solutions. I specialize in **Laravel, TypeScript, Livewire, and modern web development**. My goal is to create seamless digital experiences through clean code, smart automation, and innovation.
 
-Wz:
+### 🚀 What I Do
+- **Founder @ Koverae** - Building software solutions to revolutionize business operations.
+- **Laravel & Livewire Developer** - Crafting scalable web applications with clean architecture.
+- **Tech & Startup Enthusiast** - Passionate about business, automation, and efficiency.
 
- 🔭 I’m currently working on ...
-- 🌱 What I'm Learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+- **Backend:** Laravel, PHP, Livewire, MySQL
+- **Frontend:** TypeScript, React, Next.js, Tailwind CSS
+- **DevOps:** Docker, cPanel, CI/CD
+
+### 📫 Let's Connect
+- 🌐 [Website](#)
+- 💼 [LinkedIn](https://linkedin.com/in/ardenbouet)
+- 🐦 [Twitter](https://twitter.com/ardenbouet)
+- 📩 [Email](mailto:your.email@example.com)
+
+💡 Always open to collaboration and new ideas—feel free to reach out!
+
