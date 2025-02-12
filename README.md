@@ -13,10 +13,10 @@ I'm a **software designer, founder, and tech enthusiast** passionate about build
 - **DevOps:** Docker, cPanel, CI/CD
 
 ### 📫 Let's Connect
-- 🌐 [Website](#)
-- 💼 [LinkedIn](https://linkedin.com/in/ardenbouet)
-- 🐦 [Twitter](https://twitter.com/ardenbouet)
-- 📩 [Email](mailto:your.email@example.com)
+- 🌐 [Website](https://ardenbouet.koverae.com/?utm=github)
+- 💼 [LinkedIn](https://www.linkedin.com/in/arden-bouet/)
+- 🐦 [Twitter](https://x.com/arden_bouet)
+- 📩 [Email](mailto:laudbouetoumoussa@koverae.com)
 
 💡 Always open to collaboration and new ideas—feel free to reach out!
 
