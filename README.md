@@ -1,6 +1,6 @@
 ## 👋 Hey there, I'm Arden Bouet!
 
-I'm a **software designer, founder, and tech enthusiast** passionate about building scalable and efficient software solutions. I specialize in **Laravel, TypeScript, Livewire, and modern web development**. My goal is to create seamless digital experiences through clean code, smart automation, and innovation.
+I'm a **software designer, founder, and tech enthusiast** passionate about building scalable and efficient software solutions. I specialize in **Laravel, TypeScript, React, Livewire, and modern web development**. My goal is to create seamless digital experiences through clean code, smart automation, and innovation.
 
 ### 🚀 What I Do
 - **Founder @ Koverae** - Building software solutions to revolutionize business operations.
@@ -13,7 +13,7 @@ I'm a **software designer, founder, and tech enthusiast** passionate about build
 - **DevOps:** Docker, cPanel, CI/CD
 
 ### 📫 Let's Connect
-- 🌐 [Website](https://ardenbouet.koverae.com/?utm=github)
+- 🌐 [Website](https://ardenbouet.vercel.app/?utm=github)
 - 💼 [LinkedIn](https://www.linkedin.com/in/arden-bouet/)
 - 🐦 [Twitter](https://x.com/arden_bouet)
 - 📩 [Email](mailto:laudbouetoumoussa@koverae.com)
