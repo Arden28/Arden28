@@ -1,6 +1,6 @@
 ## 👋 Hey there, I'm Arden Bouet!
 
-[Arden](https://media.licdn.com/dms/image/v2/D4E16AQHfG5W5kcXseQ/profile-displaybackgroundimage-shrink_350_1400/B4EZZYqwXTHEAY-/0/1745244327610?e=1753315200&v=beta&t=UALRu8XD4wH8Z-3XoWxAx0MhhvfhJpOmKtvn--3Zl-c)
+<img src="https://media.licdn.com/dms/image/v2/D4E16AQHfG5W5kcXseQ/profile-displaybackgroundimage-shrink_350_1400/B4EZZYqwXTHEAY-/0/1745244327610?e=1753315200&v=beta&t=UALRu8XD4wH8Z-3XoWxAx0MhhvfhJpOmKtvn--3Zl-c" alt="Welcome Banner" width="100%" />
 I'm a **software designer, founder, and tech enthusiast** passionate about building scalable and efficient software solutions. I specialize in **Laravel, TypeScript, React, Livewire, and modern web development**. My goal is to create seamless digital experiences through clean code, smart automation, and innovation.
 
 ### 🚀 What I Do
