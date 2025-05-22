@@ -20,5 +20,3 @@ Whether it’s streamlining workflows or bringing new ideas to life, I’m all a
 - 🐦 [Twitter](https://x.com/arden_bouet)
 - 📩 [Email](mailto:laudbouetoumoussa@koverae.com)
 
-💡 Always open to collaboration and new ideas—feel free to reach out!
-
