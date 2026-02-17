@@ -1,8 +1,8 @@
-<img src="https://media.licdn.com/dms/image/v2/D4E16AQHfG5W5kcXseQ/profile-displaybackgroundimage-shrink_350_1400/B4EZZYqwXTHEAY-/0/1745244327610?e=1753315200&v=beta&t=UALRu8XD4wH8Z-3XoWxAx0MhhvfhJpOmKtvn--3Zl-c" alt="Welcome Banner" width="100%" />
+<img src="https://media.licdn.com/dms/image/v2/D4E16AQHfG5W5kcXseQ/profile-displaybackgroundimage-shrink_350_1400/B4EZZYqwXTHEAY-/0/1745244327610?e=1772668800&v=beta&t=xktG5jSs340VOdoalfCbBsgr0U5TzQpFfkl9RVsld3k" alt="Welcome Banner" width="100%" />
 
-Hey, I’m Arden BOUET a **fullstack developer** with a soft spot for clean code, smooth user experiences, and building digital tools that actually make life easier. I work mostly with Laravel and enjoy creating web apps, **SaaS platforms**, and automating everyday tasks to help things run better.
+Full-Stack Software Engineer specializing in Laravel and React, with strong proficiency in Docker and cloud-native deployments on GCP. I have a solid understanding of modern UI/UX principles through component-driven development with Tailwind CSS. Experienced in architecting and evolving scalable SaaS and multi-tenant systems, with expertise in RESTful APIs, MySQL database design and optimization, system integrations, and workflow automation.
+I am committed to clean architecture, maintainable codebases, and continuous improvement, delivering secure, high-performance, production-grade applications built for long-term scalability.
 
-Whether it’s streamlining workflows or bringing new ideas to life, I’m all about building smart, scalable solutions with a practical edge. Always open to fun challenges, fresh ideas, and meaningful collaborations.
 
 ### 🚀 What I Do
 - **Founder @ Koverae** - Building software solutions to revolutionize business operations.
@@ -15,8 +15,7 @@ Whether it’s streamlining workflows or bringing new ideas to life, I’m all a
 - **DevOps:** Docker, cPanel, CI/CD, AWS
 
 ### 📫 Let's Connect
-- 🌐 [Website](https://ardenbouet.vercel.app/?utm=github)
+- 🌐 [Website](https://ardenbouet.me/?utm=github)
 - 💼 [LinkedIn](https://www.linkedin.com/in/arden-bouet/)
-- 🐦 [Twitter](https://x.com/arden_bouet)
-- 📩 [Email](mailto:laudbouetoumoussa@koverae.com)
+- 📩 [Email](mailto:laudbouetoumoussa@gmail.com)
 
