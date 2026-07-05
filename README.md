@@ -1,20 +1,30 @@
-<img src="https://media.licdn.com/dms/image/v2/D4E16AQHfG5W5kcXseQ/profile-displaybackgroundimage-shrink_350_1400/B4EZZYqwXTHEAY-/0/1745244327610?e=1772668800&v=beta&t=xktG5jSs340VOdoalfCbBsgr0U5TzQpFfkl9RVsld3k" alt="Welcome Banner" width="100%" />
+<img src="https://drive.google.com/file/d/1xRUV7yjA1j-eO_veaAji0xw5_ohWO9hZ/view?usp=sharing" alt="Welcome Banner" width="100%" />
 
-Full-Stack Software Engineer with expertise in designing and evolving scalable SaaS and multi-tenant systems. Skilled in building secure, high-performance applications with maintainable codebases, clean architecture, and efficient workflows. Strong understanding of modern UI/UX principles, component-driven frontend design, and user-centric dashboards that translate complex data into actionable insights. Experienced in cloud-native deployments and delivering production-grade applications built for long-term scalability and continuous improvement.
+Mobility & Navigation Software Engineer focused on building scalable, real-time transit and travel systems. I design and develop full-stack, multi-tenant platforms powering urban mobility, with a strong emphasis on geospatial architectures, routing systems, and map-driven user experiences.
 
+Experienced across Laravel, Java, React (Web & Mobile), and Next.js, I build high-performance applications with clean architecture, robust APIs, and production-grade infrastructure. My work combines deep system design thinking with user-centric interfaces to deliver intuitive navigation tools and efficient mobility platforms.
+
+---
 
 ### 🚀 What I Do
-- **Founder @ Koverae** - Building software solutions to revolutionize business operations.
-- **Laravel & Livewire Developer** - Crafting scalable web applications with clean architecture.
-- **Tech & Startup Enthusiast** - Passionate about business, automation, and efficiency.
+
+* **Founder @ Navigo**: Building a public transit navigation platform for real-time routing, trip planning, and urban mobility optimization.
+* **Mobility Systems Engineer**: Designing geospatial systems, routing engines (OpenTripPlanner), and map-based platforms.
+* **Full-Stack Developer (Laravel & React)** — Developing scalable, maintainable applications with clean architecture.
+
+---
 
 ### 🛠️ Tech Stack
-- **Backend:** Laravel, PHP, Livewire, MySQL
-- **Frontend:** TypeScript, React, Next.js, Tailwind CSS
-- **DevOps:** Docker, cPanel, CI/CD, AWS
+
+* **Backend:** Laravel, PHP, Java, MySQL
+* **Frontend:** TypeScript, React, Next.js, Tailwind CSS
+* **Mobility & Geo:** OpenTripPlanner, Mapbox, Geospatial Systems
+* **DevOps:** Docker, CI/CD, Cloud Infrastructure
+
+---
 
 ### 📫 Let's Connect
-- 🌐 [Website](https://ardenbouet.me/?utm=github)
-- 💼 [LinkedIn](https://www.linkedin.com/in/arden-bouet/)
-- 📩 [Email](mailto:laudbouetoumoussa@gmail.com)
 
+* 🌐 https://ardenbouet.me/?utm=github
+* 💼 https://www.linkedin.com/in/arden-bouet/
+* 📩 [laudbouetoumoussa@gmail.com](mailto:laudbouetoumoussa@gmail.com)
