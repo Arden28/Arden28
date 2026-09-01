@@ -1,30 +1,135 @@
-<img src="https://drive.google.com/file/d/1xRUV7yjA1j-eO_veaAji0xw5_ohWO9hZ/view?usp=sharing" alt="Welcome Banner" width="100%" />
+<!--
+  ────────────────────────────────────────────────────────────────
+  BEFORE YOU COMMIT — 3 things to replace:
+  1. ardenbouet        → your actual GitHub username (appears in stats URLs + badges)
+  2. ./assets/banner.png → commit your banner into this repo (Google Drive links do NOT render)
+  3. The repo links in "Currently Building" → your real repo URLs
+  ────────────────────────────────────────────────────────────────
+-->
 
-Mobility & Navigation Software Engineer focused on building scalable, real-time transit and travel systems. I design and develop full-stack, multi-tenant platforms powering urban mobility, with a strong emphasis on geospatial architectures, routing systems, and map-driven user experiences.
+<p align="center">
+  <img src="./assets/banner.png" alt="Arden Bouet — Mobility & Navigation Systems Engineer" width="100%" />
+</p>
 
-Experienced across Laravel, Java, React (Web & Mobile), and Next.js, I build high-performance applications with clean architecture, robust APIs, and production-grade infrastructure. My work combines deep system design thinking with user-centric interfaces to deliver intuitive navigation tools and efficient mobility platforms.
+<h1 align="center">Arden Bouet</h1>
+
+<p align="center">
+  <b>Mobility &amp; Navigation Systems Engineer</b><br/>
+  I build real-time transit systems — routing engines, geospatial platforms,<br/>and map-driven products for African cities.
+</p>
+
+<p align="center">
+  <a href="https://ardenbouet.me/?utm=github"><img src="https://img.shields.io/badge/Portfolio-ardenbouet.me-00D26A?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/arden-bouet/"><img src="https://img.shields.io/badge/LinkedIn-Arden_Bouet-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:laudbouetoumoussa@gmail.com"><img src="https://img.shields.io/badge/Email-Say_hello-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://img.shields.io/badge/Nairobi-Kenya-0D1117?style=flat-square&logo=googlemaps&logoColor=00D26A" alt="Nairobi, Kenya" />
+</p>
 
 ---
 
-### 🚀 What I Do
+## Currently Building
 
-* **Founder @ Navigo**: Building a public transit navigation platform for real-time routing, trip planning, and urban mobility optimization.
-* **Mobility Systems Engineer**: Designing geospatial systems, routing engines (OpenTripPlanner), and map-based platforms.
-* **Full-Stack Developer (Laravel & React)** — Developing scalable, maintainable applications with clean architecture.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🚏 Navigo</h3>
+      <p>Crowdsourced transit data for Nairobi's matatu network — a community-maintained successor to the 2014 Digital Matatus GTFS dataset.</p>
+      <p><em>GTFS · Laravel · Tailwind</em></p>
+      <a href="https://github.com/ardenbouet/navigo">→ Repo</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧭 hopln</h3>
+      <p>Public transit navigation for African urban markets. Real-time trip planning built on top of open transit data.</p>
+      <p><em>Next.js · Mapbox · OpenTripPlanner</em></p>
+      <a href="https://github.com/ardenbouet/hopln">→ Repo</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🗺️ Transit Management SaaS</h3>
+      <p>Multi-tenant platform for operators to manage routes, fleets, and network data.</p>
+      <p><em>Laravel · PostGIS · Docker</em></p>
+      <a href="https://github.com/ardenbouet/">→ Repo</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛠️ Developer Tooling</h3>
+      <p>Small, sharp SaaS tools built for East African developers — Kenya, Tanzania, Uganda, Rwanda.</p>
+      <p><em>TypeScript · Next.js</em></p>
+      <a href="https://github.com/ardenbouet/">→ Repo</a>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🛠️ Tech Stack
+## What I Actually Do
 
-* **Backend:** Laravel, PHP, Java, MySQL
-* **Frontend:** TypeScript, React, Next.js, Tailwind CSS
-* **Mobility & Geo:** OpenTripPlanner, Mapbox, Geospatial Systems
-* **DevOps:** Docker, CI/CD, Cloud Infrastructure
+Most of my work sits at the intersection of **geospatial data**, **routing**, and **interfaces people use while standing at a bus stop**.
+
+- **Routing & geospatial** — OpenTripPlanner, GTFS pipelines, PostGIS, isochrones, map-matching
+- **Platform architecture** — multi-tenant Laravel backends, clean boundaries, versioned APIs
+- **Map-driven UX** — Mapbox GL, offline-tolerant mobile clients, low-bandwidth-first design
+- **Shipping** — Docker, CI/CD, and the unglamorous production work that keeps things up
+
+<details>
+<summary><b>How I think about building</b></summary>
+
+<br/>
+
+- **Constraints first.** African transit runs on informal networks, patchy data, and $30 Android phones. The architecture follows from that, not from a Bay Area reference stack.
+- **Data before features.** A routing product is only as good as its GTFS. Most of the hard work is upstream of the UI.
+- **Boring infrastructure, interesting products.** I'd rather spend novelty budget on the user-facing experience than on the deploy pipeline.
+
+</details>
 
 ---
 
-### 📫 Let's Connect
+## Stack
 
-* 🌐 https://ardenbouet.me/?utm=github
-* 💼 https://www.linkedin.com/in/arden-bouet/
-* 📩 [laudbouetoumoussa@gmail.com](mailto:laudbouetoumoussa@gmail.com)
+**Backend**
+
+![Laravel](https://img.shields.io/badge/Laravel-0D1117?style=flat-square&logo=laravel&logoColor=FF2D20)
+![PHP](https://img.shields.io/badge/PHP-0D1117?style=flat-square&logo=php&logoColor=777BB4)
+![Java](https://img.shields.io/badge/Java-0D1117?style=flat-square&logo=openjdk&logoColor=F89820)
+![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=flat-square&logo=mysql&logoColor=4479A1)
+![PostGIS](https://img.shields.io/badge/PostGIS-0D1117?style=flat-square&logo=postgresql&logoColor=4169E1)
+
+**Frontend**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=3178C6)
+![React](https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=flat-square&logo=nextdotjs&logoColor=FFFFFF)
+![Tailwind](https://img.shields.io/badge/Tailwind-0D1117?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
+
+**Mobility & Geo**
+
+![OpenTripPlanner](https://img.shields.io/badge/OpenTripPlanner-0D1117?style=flat-square&logo=openstreetmap&logoColor=7EBC6F)
+![Mapbox](https://img.shields.io/badge/Mapbox-0D1117?style=flat-square&logo=mapbox&logoColor=FFFFFF)
+![GTFS](https://img.shields.io/badge/GTFS-0D1117?style=flat-square&logo=googlemaps&logoColor=00D26A)
+
+**Infrastructure**
+
+![Docker](https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=2496ED)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0D1117?style=flat-square&logo=githubactions&logoColor=2088FF)
+![Linux](https://img.shields.io/badge/Linux-0D1117?style=flat-square&logo=linux&logoColor=FCC624)
+
+---
+
+## Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ardenbouet&show_icons=true&hide_border=true&title_color=00D26A&icon_color=00D26A&text_color=8B949E&bg_color=0D1117&hide=issues" alt="GitHub stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ardenbouet&layout=compact&hide_border=true&title_color=00D26A&text_color=8B949E&bg_color=0D1117&langs_count=6" alt="Top languages" height="165" />
+</p>
+
+---
+
+## Let's Talk
+
+I'm interested in transit data, routing problems, and anything that makes cities easier to move through. If you're working on something in that space — or you want to build on Navigo's data — reach out.
+
+<p align="center">
+  <a href="https://ardenbouet.me/?utm=github"><img src="https://img.shields.io/badge/ardenbouet.me-00D26A?style=for-the-badge&logoColor=white" alt="Website" /></a>
+  <a href="https://www.linkedin.com/in/arden-bouet/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:laudbouetoumoussa@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
