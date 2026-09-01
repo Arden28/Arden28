@@ -1,6 +1,6 @@
 <!--
   ────────────────────────────────────────────────────────────────
-  BEFORE YOU COMMIT — 3 things to replace:
+  BEFORE YOU COMMIT, 3 things to replace:
   1. ardenbouet        → your actual GitHub username (appears in stats URLs + badges)
   2. ./assets/banner.png → commit your banner into this repo (Google Drive links do NOT render)
   3. The repo links in "Currently Building" → your real repo URLs
@@ -8,14 +8,14 @@
 -->
 
 <p align="center">
-  <img src="./assets/banner.png" alt="Arden Bouet — Mobility & Navigation Systems Engineer" width="100%" />
+  <img src="./assets/banner.png" alt="Arden Bouet, Mobility & Navigation Systems Engineer" width="100%" />
 </p>
 
 <h1 align="center">Arden Bouet</h1>
 
 <p align="center">
   <b>Mobility &amp; Navigation Systems Engineer</b><br/>
-  I build real-time transit systems — routing engines, geospatial platforms,<br/>and map-driven products for African cities.
+  I build real-time transit systems, routing engines, geospatial platforms,<br/>and map-driven products for African cities.
 </p>
 
 <p align="center">
@@ -33,7 +33,7 @@
   <tr>
     <td width="50%" valign="top">
       <h3>🚏 Navigo</h3>
-      <p>Crowdsourced transit data for Nairobi's matatu network — a community-maintained successor to the 2014 Digital Matatus GTFS dataset.</p>
+      <p>Crowdsourced transit data for Nairobi's matatu network, a community-maintained successor to the 2014 Digital Matatus GTFS dataset.</p>
       <p><em>GTFS · Laravel · Tailwind</em></p>
       <a href="https://github.com/ardenbouet/navigo">→ Repo</a>
     </td>
@@ -53,7 +53,7 @@
     </td>
     <td width="50%" valign="top">
       <h3>🛠️ Developer Tooling</h3>
-      <p>Small, sharp SaaS tools built for East African developers — Kenya, Tanzania, Uganda, Rwanda.</p>
+      <p>Small, sharp SaaS tools built for East African developers, Kenya, Tanzania, Uganda, Rwanda.</p>
       <p><em>TypeScript · Next.js</em></p>
       <a href="https://github.com/ardenbouet/">→ Repo</a>
     </td>
@@ -66,10 +66,10 @@
 
 Most of my work sits at the intersection of **geospatial data**, **routing**, and **interfaces people use while standing at a bus stop**.
 
-- **Routing & geospatial** — OpenTripPlanner, GTFS pipelines, PostGIS, isochrones, map-matching
-- **Platform architecture** — multi-tenant Laravel backends, clean boundaries, versioned APIs
-- **Map-driven UX** — Mapbox GL, offline-tolerant mobile clients, low-bandwidth-first design
-- **Shipping** — Docker, CI/CD, and the unglamorous production work that keeps things up
+- **Routing & geospatial**, OpenTripPlanner, GTFS pipelines, PostGIS, isochrones, map-matching
+- **Platform architecture**, multi-tenant Laravel backends, clean boundaries, versioned APIs
+- **Map-driven UX**, Mapbox GL, offline-tolerant mobile clients, low-bandwidth-first design
+- **Shipping**, Docker, CI/CD, and the unglamorous production work that keeps things up
 
 <details>
 <summary><b>How I think about building</b></summary>
@@ -126,7 +126,7 @@ Most of my work sits at the intersection of **geospatial data**, **routing**, an
 
 ## Let's Talk
 
-I'm interested in transit data, routing problems, and anything that makes cities easier to move through. If you're working on something in that space — or you want to build on Navigo's data — reach out.
+I'm interested in transit data, routing problems, and anything that makes cities easier to move through. If you're working on something in that space, or you want to build on Navigo's data, reach out.
 
 <p align="center">
   <a href="https://ardenbouet.me/?utm=github"><img src="https://img.shields.io/badge/ardenbouet.me-00D26A?style=for-the-badge&logoColor=white" alt="Website" /></a>
