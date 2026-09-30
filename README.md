@@ -72,7 +72,7 @@
       <a href="https://github.com/Navigo-Kenya/navigo-console">→ Repo</a>
     </td>
 
-```
+
 <td width="50%" valign="top">
   <h3>🛠️ Mova Manager</h3>
   <p>Internal operations platform used by Mova to manage its mobility products, business operations, and the wider Mova app ecosystem.</p>
@@ -84,7 +84,7 @@
   </p>
   <a href="#">→ Repo</a>
 </td>
-```
+
 
   </tr>
 </table>
