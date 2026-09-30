@@ -38,10 +38,10 @@
       <a href="https://github.com/Navigo-Kenya/navigo">→ Repo</a>
     </td>
     <td width="50%" valign="top">
-      <h3>🧭 hopln</h3>
-      <p>Public transit navigation for African urban markets. Real-time trip planning built on top of open transit data.</p>
-      <p><em>Next.js · Mapbox · OpenTripPlanner</em></p>
-      <a href="https://github.com/ardenbouet/hopln">→ Repo</a>
+      <h3>🚌 Móva</h3>
+      <p>Mobility platform for real-world transit operations, connecting passengers with reliable bus transportation for everyday and group travel.</p>
+      <p><em>Laravel · React · PostgreSQL · Maps</em></p>
+      <a href="https://github.com/ardenbouet/">→ Repo</a>
     </td>
   </tr>
   <tr>
@@ -52,9 +52,9 @@
       <a href="https://github.com/Navigo-Kenya/navigo-console">→ Repo</a>
     </td>
     <td width="50%" valign="top">
-      <h3>🛠️ Developer Tooling</h3>
-      <p>Small, sharp SaaS tools built for East African developers, Kenya, Tanzania, Uganda, Rwanda.</p>
-      <p><em>TypeScript · Next.js</em></p>
+      <h3>⚙️ Móva Manager</h3>
+      <p>Operations and management platform powering Móva's transit services, from reservations and passenger management to route and fleet operations.</p>
+      <p><em>Laravel · React · PostgreSQL · REST APIs</em></p>
       <a href="https://github.com/ardenbouet/">→ Repo</a>
     </td>
   </tr>
@@ -66,19 +66,19 @@
 
 Most of my work sits at the intersection of **geospatial data**, **routing**, and **interfaces people use while standing at a bus stop**.
 
-- **Routing & geospatial**, OpenTripPlanner, GTFS pipelines, PostGIS, isochrones, map-matching
-- **Platform architecture**, multi-tenant Laravel backends, clean boundaries, versioned APIs
-- **Map-driven UX**, Mapbox GL, offline-tolerant mobile clients, low-bandwidth-first design
-- **Shipping**, Docker, CI/CD, and the unglamorous production work that keeps things up
+* **Routing & geospatial**, OpenTripPlanner, GTFS pipelines, PostGIS, isochrones, map-matching
+* **Platform architecture**, multi-tenant Laravel backends, clean boundaries, versioned APIs
+* **Map-driven UX**, Mapbox GL, offline-tolerant mobile clients, low-bandwidth-first design
+* **Shipping**, Docker, CI/CD, and the unglamorous production work that keeps things up
 
 <details>
 <summary><b>How I think about building</b></summary>
 
 <br/>
 
-- **Constraints first.** African transit runs on informal networks, patchy data, and $30 Android phones. The architecture follows from that, not from a Bay Area reference stack.
-- **Data before features.** A routing product is only as good as its GTFS. Most of the hard work is upstream of the UI.
-- **Boring infrastructure, interesting products.** I'd rather spend novelty budget on the user-facing experience than on the deploy pipeline.
+* **Constraints first.** African transit runs on informal networks, patchy data, and $30 Android phones. The architecture follows from that, not from a Bay Area reference stack.
+* **Data before features.** A routing product is only as good as its GTFS. Most of the hard work is upstream of the UI.
+* **Boring infrastructure, interesting products.** I'd rather spend novelty budget on the user-facing experience than on the deploy pipeline.
 
 </details>
 
@@ -88,30 +88,30 @@ Most of my work sits at the intersection of **geospatial data**, **routing**, an
 
 **Backend**
 
-![Laravel](https://img.shields.io/badge/Laravel-0D1117?style=flat-square&logo=laravel&logoColor=FF2D20)
-![PHP](https://img.shields.io/badge/PHP-0D1117?style=flat-square&logo=php&logoColor=777BB4)
-![Java](https://img.shields.io/badge/Java-0D1117?style=flat-square&logo=openjdk&logoColor=F89820)
-![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=flat-square&logo=mysql&logoColor=4479A1)
-![PostGIS](https://img.shields.io/badge/PostGIS-0D1117?style=flat-square&logo=postgresql&logoColor=4169E1)
+![Laravel](https://img.shields.io/badge/Laravel-0D1117?style=flat-square\&logo=laravel\&logoColor=FF2D20)
+![PHP](https://img.shields.io/badge/PHP-0D1117?style=flat-square\&logo=php\&logoColor=777BB4)
+![Java](https://img.shields.io/badge/Java-0D1117?style=flat-square\&logo=openjdk\&logoColor=F89820)
+![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=flat-square\&logo=mysql\&logoColor=4479A1)
+![PostGIS](https://img.shields.io/badge/PostGIS-0D1117?style=flat-square\&logo=postgresql\&logoColor=4169E1)
 
 **Frontend**
 
-![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=3178C6)
-![React](https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=flat-square&logo=nextdotjs&logoColor=FFFFFF)
-![Tailwind](https://img.shields.io/badge/Tailwind-0D1117?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
+![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=flat-square\&logo=typescript\&logoColor=3178C6)
+![React](https://img.shields.io/badge/React-0D1117?style=flat-square\&logo=react\&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=flat-square\&logo=nextdotjs\&logoColor=FFFFFF)
+![Tailwind](https://img.shields.io/badge/Tailwind-0D1117?style=flat-square\&logo=tailwindcss\&logoColor=06B6D4)
 
 **Mobility & Geo**
 
-![OpenTripPlanner](https://img.shields.io/badge/OpenTripPlanner-0D1117?style=flat-square&logo=openstreetmap&logoColor=7EBC6F)
-![Mapbox](https://img.shields.io/badge/Mapbox-0D1117?style=flat-square&logo=mapbox&logoColor=FFFFFF)
-![GTFS](https://img.shields.io/badge/GTFS-0D1117?style=flat-square&logo=googlemaps&logoColor=00D26A)
+![OpenTripPlanner](https://img.shields.io/badge/OpenTripPlanner-0D1117?style=flat-square\&logo=openstreetmap\&logoColor=7EBC6F)
+![Mapbox](https://img.shields.io/badge/Mapbox-0D1117?style=flat-square\&logo=mapbox\&logoColor=FFFFFF)
+![GTFS](https://img.shields.io/badge/GTFS-0D1117?style=flat-square\&logo=googlemaps\&logoColor=00D26A)
 
 **Infrastructure**
 
-![Docker](https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=2496ED)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0D1117?style=flat-square&logo=githubactions&logoColor=2088FF)
-![Linux](https://img.shields.io/badge/Linux-0D1117?style=flat-square&logo=linux&logoColor=FCC624)
+![Docker](https://img.shields.io/badge/Docker-0D1117?style=flat-square\&logo=docker\&logoColor=2496ED)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0D1117?style=flat-square\&logo=githubactions\&logoColor=2088FF)
+![Linux](https://img.shields.io/badge/Linux-0D1117?style=flat-square\&logo=linux\&logoColor=FCC624)
 
 ---
 
