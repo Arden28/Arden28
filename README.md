@@ -148,8 +148,19 @@ Most of my work sits at the intersection of **mobility platforms**, **geospatial
 ## Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arden28&show_icons=true&hide_border=true&title_color=00D26A&icon_color=00D26A&text_color=8B949E&bg_color=0D1117&hide=issues" alt="GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ardenbouet&layout=compact&hide_border=true&title_color=00D26A&text_color=8B949E&bg_color=0D1117&langs_count=6" alt="Top languages" height="165" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Arden28&bg_color=0D1117&color=8B949E&line=00D26A&point=00D26A&area=true&hide_border=true"
+    alt="Arden28 GitHub activity graph"
+    width="100%"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=Arden28&theme=dark&background=0D1117&border=0D1117&stroke=30363D&ring=00D26A&fire=00D26A&currStreakLabel=8B949E&sideLabels=8B949E&dates=8B949E"
+    alt="Arden28 GitHub streak stats"
+    width="100%"
+  />
 </p>
 
 ---
