@@ -34,7 +34,7 @@
     <td width="50%" valign="top">
       <h3>🚏 Navigo</h3>
       <p>Crowdsourced transit data for Nairobi's matatu network, a community-maintained successor to the 2014 Digital Matatus GTFS dataset.</p>
-      <p><em>GTFS · Laravel · React Native · ![OpenTripPlanner](https://img.shields.io/badge/OpenTripPlanner-0D1117?style=flat-square\&logo=openstreetmap\&logoColor=7EBC6F) </em></p>
+      <p><em>GTFS · Laravel · React Native · <img src="https://img.shields.io/badge/OpenTripPlanner-0D1117?style=flat-square\&logo=openstreetmap\&logoColor=7EBC6F" /> </em></p>
       <a href="https://github.com/Navigo-Kenya/navigo">→ Repo</a>
     </td>
     <td width="50%" valign="top">
