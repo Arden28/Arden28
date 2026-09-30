@@ -34,30 +34,59 @@
     <td width="50%" valign="top">
       <h3>🚏 Navigo</h3>
       <p>Crowdsourced transit data for Nairobi's matatu network, a community-maintained successor to the 2014 Digital Matatus GTFS dataset.</p>
-      <p><em>GTFS · <img src="https://img.shields.io/badge/Laravel-0D1117?style=flat-square\&logo=laravel\&logoColor=FF2D20" /> · React Native · 
-        <img src="https://img.shields.io/badge/OpenTripPlanner-0D1117?style=flat-square\&logo=openstreetmap\&logoColor=7EBC6F" /> </em></p>
+      <p>
+        <img src="https://img.shields.io/badge/GTFS-0D1117?style=flat-square&logo=googlemaps&logoColor=00D26A" alt="GTFS" />
+        <img src="https://img.shields.io/badge/Laravel-0D1117?style=flat-square&logo=laravel&logoColor=FF2D20" alt="Laravel" />
+        <img src="https://img.shields.io/badge/React_Native-0D1117?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
+        <img src="https://img.shields.io/badge/OpenTripPlanner-0D1117?style=flat-square&logo=openstreetmap&logoColor=7EBC6F" alt="OpenTripPlanner" />
+      </p>
       <a href="https://github.com/Navigo-Kenya/navigo">→ Repo</a>
     </td>
-    <td width="50%" valign="top">
-      <h3>🚌 Mova</h3>
-      <p>Bus mobility platform for reservations and recurring travel. Includes Mova Pass, a subscription service for students and professionals who rely on daily bus rides.</p>
-      <p><em>Laravel · React · React Native · APIs</em></p>
-      <a href="#">→ Repo</a>
-    </td>
+
+```
+<td width="50%" valign="top">
+  <h3>🚌 Mova</h3>
+  <p>Bus mobility platform for reservations and recurring travel. Includes Mova Pass, a subscription service for students and professionals who rely on daily bus rides.</p>
+  <p>
+    <img src="https://img.shields.io/badge/Laravel-0D1117?style=flat-square&logo=laravel&logoColor=FF2D20" alt="Laravel" />
+    <img src="https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+    <img src="https://img.shields.io/badge/React_Native-0D1117?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
+    <img src="https://img.shields.io/badge/API-0D1117?style=flat-square&logo=fastapi&logoColor=009688" alt="API" />
+  </p>
+  <a href="#">→ Repo</a>
+</td>
+```
+
   </tr>
+
   <tr>
     <td width="50%" valign="top">
       <h3>🗺️ Navigo Console - Transit Management SaaS</h3>
       <p>Multi-tenant platform for operators to manage routes, fleets, and network data.</p>
-      <p><em>Laravel · React · Java · PostGIS · Docker</em></p>
+      <p>
+        <img src="https://img.shields.io/badge/Laravel-0D1117?style=flat-square&logo=laravel&logoColor=FF2D20" alt="Laravel" />
+        <img src="https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+        <img src="https://img.shields.io/badge/Java-0D1117?style=flat-square&logo=openjdk&logoColor=F89820" alt="Java" />
+        <img src="https://img.shields.io/badge/PostGIS-0D1117?style=flat-square&logo=postgresql&logoColor=4169E1" alt="PostGIS" />
+        <img src="https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=2496ED" alt="Docker" />
+      </p>
       <a href="https://github.com/Navigo-Kenya/navigo-console">→ Repo</a>
     </td>
-    <td width="50%" valign="top">
-      <h3>🛠️ Mova Manager</h3>
-      <p>Internal operations platform used by Mova to manage its mobility products, business operations, and the wider Mova app ecosystem.</p>
-      <p><em>Laravel · React · APIs · Platform Architecture</em></p>
-      <a href="#">→ Repo</a>
-    </td>
+
+```
+<td width="50%" valign="top">
+  <h3>🛠️ Mova Manager</h3>
+  <p>Internal operations platform used by Mova to manage its mobility products, business operations, and the wider Mova app ecosystem.</p>
+  <p>
+    <img src="https://img.shields.io/badge/Laravel-0D1117?style=flat-square&logo=laravel&logoColor=FF2D20" alt="Laravel" />
+    <img src="https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+    <img src="https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+    <img src="https://img.shields.io/badge/API-0D1117?style=flat-square&logo=fastapi&logoColor=009688" alt="API" />
+  </p>
+  <a href="#">→ Repo</a>
+</td>
+```
+
   </tr>
 </table>
 
