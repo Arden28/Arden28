@@ -15,7 +15,7 @@
 
 <p align="center">
   <b>Mobility &amp; Navigation Systems Engineer</b><br/>
-  I build real-time transit systems, routing engines, geospatial platforms,<br/>and map-driven products for African cities.
+  I build mobility platforms, booking systems, routing engines, geospatial products,<br/>and map-driven software for African cities.
 </p>
 
 <p align="center">
@@ -38,10 +38,10 @@
       <a href="https://github.com/Navigo-Kenya/navigo">→ Repo</a>
     </td>
     <td width="50%" valign="top">
-      <h3>🚌 Móva</h3>
-      <p>Mobility platform for real-world transit operations, connecting passengers with reliable bus transportation for everyday and group travel.</p>
-      <p><em>Laravel · React · PostgreSQL · Maps</em></p>
-      <a href="https://github.com/ardenbouet/">→ Repo</a>
+      <h3>🚌 Mova</h3>
+      <p>Bus mobility platform for reservations and recurring travel. Includes Mova Pass, a subscription service for students and professionals who rely on daily bus rides.</p>
+      <p><em>Laravel · React · React Native · APIs</em></p>
+      <a href="#">→ Repo</a>
     </td>
   </tr>
   <tr>
@@ -52,10 +52,10 @@
       <a href="https://github.com/Navigo-Kenya/navigo-console">→ Repo</a>
     </td>
     <td width="50%" valign="top">
-      <h3>⚙️ Móva Manager</h3>
-      <p>Operations and management platform powering Móva's transit services, from reservations and passenger management to route and fleet operations.</p>
-      <p><em>Laravel · React · PostgreSQL · REST APIs</em></p>
-      <a href="https://github.com/ardenbouet/">→ Repo</a>
+      <h3>🛠️ Mova Manager</h3>
+      <p>Internal operations platform used by Mova to manage its mobility products, business operations, and the wider Mova app ecosystem.</p>
+      <p><em>Laravel · React · APIs · Platform Architecture</em></p>
+      <a href="#">→ Repo</a>
     </td>
   </tr>
 </table>
@@ -64,10 +64,11 @@
 
 ## What I Actually Do
 
-Most of my work sits at the intersection of **geospatial data**, **routing**, and **interfaces people use while standing at a bus stop**.
+Most of my work sits at the intersection of **mobility platforms**, **geospatial data**, **routing**, and **interfaces people use to plan and book journeys**.
 
-* **Routing & geospatial**, OpenTripPlanner, GTFS pipelines, PostGIS, isochrones, map-matching
+* **Mobility & routing**, OpenTripPlanner, GTFS pipelines, PostGIS, trip planning
 * **Platform architecture**, multi-tenant Laravel backends, clean boundaries, versioned APIs
+* **Booking & mobility products**, reservation systems, subscription platforms, operational tooling
 * **Map-driven UX**, Mapbox GL, offline-tolerant mobile clients, low-bandwidth-first design
 * **Shipping**, Docker, CI/CD, and the unglamorous production work that keeps things up
 
@@ -76,8 +77,8 @@ Most of my work sits at the intersection of **geospatial data**, **routing**, an
 
 <br/>
 
-* **Constraints first.** African transit runs on informal networks, patchy data, and $30 Android phones. The architecture follows from that, not from a Bay Area reference stack.
-* **Data before features.** A routing product is only as good as its GTFS. Most of the hard work is upstream of the UI.
+* **Constraints first.** African mobility runs on informal networks, patchy data, and constrained devices. The architecture follows from that, not from a Bay Area reference stack.
+* **Data before features.** A routing product is only as good as its underlying mobility data. Most of the hard work is upstream of the UI.
 * **Boring infrastructure, interesting products.** I'd rather spend novelty budget on the user-facing experience than on the deploy pipeline.
 
 </details>
@@ -126,7 +127,7 @@ Most of my work sits at the intersection of **geospatial data**, **routing**, an
 
 ## Let's Talk
 
-I'm interested in transit data, routing problems, and anything that makes cities easier to move through. If you're working on something in that space, or you want to build on Navigo's data, reach out.
+I'm interested in mobility platforms, transit data, routing problems, and the software that makes everyday journeys easier to plan and book. If you're working on something in that space, or you want to build on Navigo's data, reach out.
 
 <p align="center">
   <a href="https://ardenbouet.me/?utm=github"><img src="https://img.shields.io/badge/ardenbouet.me-00D26A?style=for-the-badge&logoColor=white" alt="Website" /></a>
