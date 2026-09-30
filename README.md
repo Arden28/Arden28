@@ -46,10 +46,10 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🗺️ Transit Management SaaS</h3>
+      <h3>🗺️ Navigo Console - Transit Management SaaS</h3>
       <p>Multi-tenant platform for operators to manage routes, fleets, and network data.</p>
-      <p><em>Laravel · PostGIS · Docker</em></p>
-      <a href="https://github.com/ardenbouet/">→ Repo</a>
+      <p><em>Laravel · React · Java · PostGIS · Docker</em></p>
+      <a href="https://github.com/Navigo-Kenya/navigo-console">→ Repo</a>
     </td>
     <td width="50%" valign="top">
       <h3>🛠️ Developer Tooling</h3>
