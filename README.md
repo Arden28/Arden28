@@ -19,10 +19,10 @@
 </p>
 
 <p align="center">
-  <a href="https://ardenbouet.me/?utm=github"><img src="https://img.shields.io/badge/Portfolio-ardenbouet.me-00D26A?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/arden-bouet/"><img src="https://img.shields.io/badge/LinkedIn-Arden_Bouet-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:laudbouetoumoussa@gmail.com"><img src="https://img.shields.io/badge/Email-Say_hello-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <img src="https://img.shields.io/badge/Nairobi-Kenya-0D1117?style=flat-square&logo=googlemaps&logoColor=00D26A" alt="Nairobi, Kenya" />
+  <a href="https://ardenbouet.me/?utm=github"><img src="https://img.shields.io/badge/Portfolio-ardenbouet.me-00D26A?style=flat-square&amp;logo=googlechrome&amp;logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/arden-bouet/"><img src="https://img.shields.io/badge/LinkedIn-Arden_Bouet-0A66C2?style=flat-square&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:laudbouetoumoussa@gmail.com"><img src="https://img.shields.io/badge/Email-Say_hello-EA4335?style=flat-square&amp;logo=gmail&amp;logoColor=white" alt="Email" /></a>
+  <img src="https://img.shields.io/badge/Nairobi-Kenya-0D1117?style=flat-square&amp;logo=googlemaps&amp;logoColor=00D26A" alt="Nairobi, Kenya" />
 </p>
 
 ---
@@ -35,10 +35,10 @@
       <h3>🚏 Navigo</h3>
       <p>Crowdsourced transit data for Nairobi's matatu network, a community-maintained successor to the 2014 Digital Matatus GTFS dataset.</p>
       <p>
-        <img src="https://img.shields.io/badge/GTFS-0D1117?style=flat-square&logo=googlemaps&logoColor=00D26A" alt="GTFS" />
-        <img src="https://img.shields.io/badge/Laravel-0D1117?style=flat-square&logo=laravel&logoColor=FF2D20" alt="Laravel" />
-        <img src="https://img.shields.io/badge/React_Native-0D1117?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
-        <img src="https://img.shields.io/badge/OpenTripPlanner-0D1117?style=flat-square&logo=openstreetmap&logoColor=7EBC6F" alt="OpenTripPlanner" />
+        <img src="https://img.shields.io/badge/GTFS-0D1117?style=flat-square&amp;logo=googlemaps&amp;logoColor=00D26A" alt="GTFS" />
+        <img src="https://img.shields.io/badge/Laravel-0D1117?style=flat-square&amp;logo=laravel&amp;logoColor=FF2D20" alt="Laravel" />
+        <img src="https://img.shields.io/badge/React_Native-0D1117?style=flat-square&amp;logo=react&amp;logoColor=61DAFB" alt="React Native" />
+        <img src="https://img.shields.io/badge/OpenTripPlanner-0D1117?style=flat-square&amp;logo=openstreetmap&amp;logoColor=7EBC6F" alt="OpenTripPlanner" />
       </p>
       <a href="https://github.com/Navigo-Kenya/navigo">→ Repo</a>
     </td>
@@ -48,10 +48,10 @@
   <h3>🚌 Mova</h3>
   <p>Bus mobility platform for reservations and recurring travel. Includes Mova Pass, a subscription service for students and professionals who rely on daily bus rides.</p>
   <p>
-    <img src="https://img.shields.io/badge/Laravel-0D1117?style=flat-square&logo=laravel&logoColor=FF2D20" alt="Laravel" />
-    <img src="https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-    <img src="https://img.shields.io/badge/React_Native-0D1117?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
-    <img src="https://img.shields.io/badge/API-0D1117?style=flat-square&logo=fastapi&logoColor=009688" alt="API" />
+    <img src="https://img.shields.io/badge/Laravel-0D1117?style=flat-square&amp;logo=laravel&amp;logoColor=FF2D20" alt="Laravel" />
+    <img src="https://img.shields.io/badge/React-0D1117?style=flat-square&amp;logo=react&amp;logoColor=61DAFB" alt="React" />
+    <img src="https://img.shields.io/badge/React_Native-0D1117?style=flat-square&amp;logo=react&amp;logoColor=61DAFB" alt="React Native" />
+    <img src="https://img.shields.io/badge/API-0D1117?style=flat-square&amp;logo=fastapi&amp;logoColor=009688" alt="API" />
   </p>
   <a href="#">→ Repo</a>
 </td>
@@ -64,11 +64,11 @@
       <h3>🗺️ Navigo Console - Transit Management SaaS</h3>
       <p>Multi-tenant platform for operators to manage routes, fleets, and network data.</p>
       <p>
-        <img src="https://img.shields.io/badge/Laravel-0D1117?style=flat-square&logo=laravel&logoColor=FF2D20" alt="Laravel" />
-        <img src="https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-        <img src="https://img.shields.io/badge/Java-0D1117?style=flat-square&logo=openjdk&logoColor=F89820" alt="Java" />
-        <img src="https://img.shields.io/badge/PostGIS-0D1117?style=flat-square&logo=postgresql&logoColor=4169E1" alt="PostGIS" />
-        <img src="https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=2496ED" alt="Docker" />
+        <img src="https://img.shields.io/badge/Laravel-0D1117?style=flat-square&amp;logo=laravel&amp;logoColor=FF2D20" alt="Laravel" />
+        <img src="https://img.shields.io/badge/React-0D1117?style=flat-square&amp;logo=react&amp;logoColor=61DAFB" alt="React" />
+        <img src="https://img.shields.io/badge/Java-0D1117?style=flat-square&amp;logo=openjdk&amp;logoColor=F89820" alt="Java" />
+        <img src="https://img.shields.io/badge/PostGIS-0D1117?style=flat-square&amp;logo=postgresql&amp;logoColor=4169E1" alt="PostGIS" />
+        <img src="https://img.shields.io/badge/Docker-0D1117?style=flat-square&amp;logo=docker&amp;logoColor=2496ED" alt="Docker" />
       </p>
       <a href="https://github.com/Navigo-Kenya/navigo-console">→ Repo</a>
     </td>
@@ -78,10 +78,10 @@
   <h3>🛠️ Mova Manager</h3>
   <p>Internal operations platform used by Mova to manage its mobility products, business operations, and the wider Mova app ecosystem.</p>
   <p>
-    <img src="https://img.shields.io/badge/Laravel-0D1117?style=flat-square&logo=laravel&logoColor=FF2D20" alt="Laravel" />
-    <img src="https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-    <img src="https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
-    <img src="https://img.shields.io/badge/API-0D1117?style=flat-square&logo=fastapi&logoColor=009688" alt="API" />
+    <img src="https://img.shields.io/badge/Laravel-0D1117?style=flat-square&amp;logo=laravel&amp;logoColor=FF2D20" alt="Laravel" />
+    <img src="https://img.shields.io/badge/React-0D1117?style=flat-square&amp;logo=react&amp;logoColor=61DAFB" alt="React" />
+    <img src="https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&amp;logo=typescript&amp;logoColor=3178C6" alt="TypeScript" />
+    <img src="https://img.shields.io/badge/API-0D1117?style=flat-square&amp;logo=fastapi&amp;logoColor=009688" alt="API" />
   </p>
   <a href="#">→ Repo</a>
 </td>
