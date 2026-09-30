@@ -43,7 +43,7 @@
       <a href="https://github.com/Navigo-Kenya/navigo">→ Repo</a>
     </td>
 
-```
+
 <td width="50%" valign="top">
   <h3>🚌 Mova</h3>
   <p>Bus mobility platform for reservations and recurring travel. Includes Mova Pass, a subscription service for students and professionals who rely on daily bus rides.</p>
@@ -55,7 +55,6 @@
   </p>
   <a href="#">→ Repo</a>
 </td>
-```
 
   </tr>
 
