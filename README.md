@@ -35,7 +35,7 @@
       <h3>🚏 Navigo</h3>
       <p>Crowdsourced transit data for Nairobi's matatu network, a community-maintained successor to the 2014 Digital Matatus GTFS dataset.</p>
       <p><em>GTFS · Laravel · Tailwind</em></p>
-      <a href="https://github.com/ardenbouet/navigo">→ Repo</a>
+      <a href="https://github.com/Navigo-Kenya/navigo">→ Repo</a>
     </td>
     <td width="50%" valign="top">
       <h3>🧭 hopln</h3>
